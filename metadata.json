@@ -1,0 +1,6 @@
+{
+  "name": "Tính Cấu Hình Electron",
+  "description": "Công cụ tính cấu hình electron chuẩn xác cho 118 nguyên tố và ion, sơ đồ orbital, electron độc thân và bảng tuần hoàn THPT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
